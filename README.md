@@ -3,6 +3,7 @@
 A sleek and modern countdown timer built using **HTML, CSS, and JavaScript**.  
 You can set custom **hours** and **minutes**, start / pause / resume the timer, and reset anytime.  
 The UI features a **circular progress ring**, **glassmorphism design**, and **sound + vibration alerts** when the timer ends.
+Take a look : https://hegdesubhas.github.io/ModernTimer/
 
 ---
 
